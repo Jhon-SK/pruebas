@@ -1,0 +1,3023 @@
+.m-crea.m-crea-equipos .m-container {
+    padding: 20px
+}
+
+.m-crea.m-crea-equipos .m-container .m-crea--content h2.dark {
+    color: #0b2739
+}
+
+.m-crea.m-crea-movil-planes {
+    align-items: flex-start;
+    background: url("../img/fondo/crea-equipos-slide2-desktop.jpg") no-repeat center center
+}
+
+.m-crea.m-crea-movil-planes .m-container {
+    padding: 20px;
+    margin: 0
+}
+
+.m-crea.m-crea-planes-movistar-trio {
+    background: url("../img/fondo/crea-planes-movistar-trio-desktop.jpg") no-repeat center center
+}
+
+.m-crea.m-crea-planes-movistar-total {
+    background: url("../img/fondo/crea-planes-movistar-total-desktop.jpg") no-repeat center center
+}
+
+.m-crea.m-crea-sin-equipo {
+    background: url("../img/fondo/crea-sin-equipo-desktop.jpg") no-repeat center center
+}
+
+.m-crea.m-crea-con-equipo {
+    height: 640px;
+    background: url("../img/fondo/crea-con-equipo-desktop.jpg") no-repeat center center
+}
+
+.m-crea.m-crea-con-equipo .item-equipo {
+    display: none
+}
+
+.m-crea.m-crea-con-equipo .m-container .m-crea__container {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center
+}
+
+.m-crea.m-crea-con-equipo .m-container .m-crea__container .m-crea--content {
+    width: 100%;
+    max-width: 550px;
+    margin-left: 0
+}
+
+.m-crea.m-crea-con-equipo .m-container .m-crea__container .m-crea--content h1 {
+    font-size: 48px;
+    font-family: 'TelefonicaBold';
+    margin-bottom: 5px
+}
+
+.m-crea.m-crea-con-equipo .m-container .m-crea__container .m-crea--content h2 {
+    margin: 0;
+    font-size: 32px;
+    font-family: 'TelefonicaRegular';
+    margin-bottom: 20px
+}
+
+.m-crea.m-crea-con-equipo .m-container .m-crea__container .m-crea--content h3 {
+    font-size: 26px;
+    font-family: 'TelefonicaBold';
+    margin-bottom: 8px
+}
+
+.m-crea.m-crea-con-equipo .m-container .m-crea__container .m-crea--content p {
+    font-size: 18px;
+    font-family: 'TelefonicaRegular'
+}
+
+.m-crea.m-crea-con-equipo .m-container .m-crea__container .m-crea--content p span {
+    font-size: 18px
+}
+
+.m-crea.m-crea-con-equipo .m-container .m-crea__container .m-crea--content .m-crea--content__feature .m-content__image {
+    display: none
+}
+
+.m-crea.m-crea-con-equipo .m-container .m-crea__container .m-crea__image {
+    width: 100%;
+    text-align: center
+}
+
+.m-crea.m-crea-con-equipo .m-container .m-crea__container .m-crea__image img {
+    width: 100%;
+    max-width: 235px
+}
+
+.m-crea.m-crea-chatbot {
+    height: 570px;
+    background: url("../img/fondo/crea-chatbot-slide1-desktop.jpg") no-repeat center center;
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center
+}
+
+.m-crea.m-crea-chatbot.slide2 {
+    background: url("../img/fondo/crea-chatbot-slide2-desktop.jpg") no-repeat center center
+}
+
+.m-crea.m-crea-chatbot.slide3 {
+    background: url("../img/fondo/crea-chatbot-slide3-desktop.jpg") no-repeat center center
+}
+
+.m-crea.m-crea-chatbot .m-container .m-crea--header {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    height: 70px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    max-width: 1160px;
+    margin: auto;
+    left: 0;
+    right: 0
+}
+
+.m-crea.m-crea-chatbot .m-container .m-crea--header img {
+    width: 100%;
+    max-width: 160px
+}
+
+.m-crea.m-crea-chatbot .m-container .m-crea--content {
+    margin: 0
+}
+
+.m-crea.m-crea-chatbot .m-container .m-crea--content .m-chatbot--container h1 {
+    color: #019df4;
+    font-size: 35px;
+    font-family: 'TelefonicaBold';
+    margin: 0
+}
+
+.m-crea.m-crea-chatbot .m-container .m-crea--content .m-chatbot--container h2 {
+    font-size: 40px;
+    margin: 0;
+    line-height: 30px;
+    margin-bottom: 25px
+}
+
+.m-crea.m-crea-chatbot .m-container .m-crea--content .m-chatbot--container h2 strong {
+    font-size: 70px;
+    font-family: 'TelefonicaHand'
+}
+
+.m-crea.m-crea-chatbot .m-container .m-crea--content .m-chatbot--container h3 {
+    font-size: 35px;
+    font-family: 'TelefonicaRegular';
+    margin-top: 50px;
+    margin-bottom: 20px
+}
+
+.m-crea.m-crea-chatbot .m-container .m-crea--content .m-chatbot--container h3 strong {
+    font-family: 'TelefonicaBold';
+    display: block
+}
+
+.m-crea.m-crea-chatbot .m-container .m-crea--content .m-chatbot--container h4 {
+    font-size: 26px
+}
+
+.m-crea.m-crea-chatbot .m-container .m-crea--content .m-chatbot--container h4 strong {
+    font-size: 45px;
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea.m-crea-chatbot .m-container .m-crea--content .m-chatbot--container h5 {
+    font-size: 28px;
+    font-family: 'TelefonicaBold';
+    margin-bottom: 10px
+}
+
+.m-crea.m-crea-chatbot .m-container .m-crea--content .m-chatbot--container h5 strong {
+    font-size: 36px
+}
+
+.m-crea.m-crea-chatbot .m-container .m-crea--content .m-chatbot--container p {
+    font-size: 30px;
+    font-family: 'TelefonicaLight'
+}
+
+.m-crea.m-crea-chatbot .m-container .m-crea--content .m-chatbot--container .prende {
+    width: 100%;
+    max-width: 224px;
+    margin: 10px 0
+}
+
+.m-crea.m-crea-chatbot .m-container .m-crea--content .m-chatbot--container .nocturno {
+    width: 100%;
+    max-width: 500px
+}
+
+.m-crea.m-crea-chatbot .m-container .m-chatbot__container {
+    margin-bottom: 100px
+}
+
+.m-crea.m-crea-chatbot .m-container .small-chatbot {
+    color: #fff
+}
+
+.m-crea.m-crea-gracias {
+    background: url("../img/fondo/crea-gracias-desktop.jpg") no-repeat center center
+}
+
+.m-crea.id-version {
+    height: calc(100vh - 160px)
+}
+
+.m-crea.id-version .m-container .m-crea__container {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center
+}
+
+.m-crea.id-version .m-container .m-crea__container .m-crea--content {
+    max-width: 520px;
+    text-align: left
+}
+
+.m-crea.id-version .m-container .m-crea__container .m-crea--content h1 {
+    margin: 30px 0
+}
+
+.m-crea.id-version .m-container .m-crea__container .m-crea--content .m-crea__benefits {
+    justify-content: flex-start;
+    margin-bottom: 30px;
+    max-width: 240px;
+    border-radius: 8px;
+    overflow: hidden
+}
+
+.m-crea.id-version .m-container .m-crea__container .m-crea--content .m-crea__benefits .m-benefit__item {
+    width: 100%;
+    border-radius: 0;
+    text-align: center
+}
+
+.m-crea.id-version .m-container .m-crea__container .m-crea--content .m-crea__benefits .m-benefit__item p {
+    line-height: 22px
+}
+
+.m-crea.id-version .m-container .m-crea__container .m-crea--content .m-crea__benefits .m-benefit__item.dark {
+    max-width: 146px
+}
+
+.m-crea.id-version .m-container .m-crea__container .m-crea--content .m-form--grid {
+    justify-content: flex-start
+}
+
+.m-crea.id-version .m-container .m-crea__container .m-crea__image {
+    width: 100%;
+    text-align: center
+}
+
+.m-crea.id-version .m-container .m-crea--content {
+    max-width: 650px;
+    text-align: center;
+    margin: auto
+}
+
+.m-crea.id-version .m-container .m-crea--content h1 {
+    margin: 40px 0
+}
+
+.m-crea.id-version .m-container .m-crea--content h1 strong,
+.m-crea.id-version .m-container .m-crea--content h1 span {
+    font-size: 40px
+}
+
+.m-crea.id-version .m-container .m-crea--content .m-form--grid {
+    justify-content: center
+}
+
+.m-crea.id-version .m-container .m-crea--content .m-button {
+    margin-top: 20px
+}
+
+.m-crea .m-container {
+    padding: 25px 0 20px 0
+}
+
+.m-crea .m-container .m-crea--content {
+    width: 100%;
+    max-width: 410px;
+    margin-left: 65px
+}
+
+.m-crea .m-container .m-crea--content .item64 {
+    width: 100%;
+    max-width: 420px;
+    margin: auto
+}
+
+.m-crea .m-container .m-crea--content .item-50 {
+    margin: auto;
+    margin-bottom: 8px;
+    width: 100%;
+    max-width: 455px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex {
+    max-width: 900px !important;
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    margin-top: 30px !important
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex.duo-tv {
+    max-width: 920px !important;
+    margin-top: 80px !important
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex.duo-tv .m-banner__flex--content {
+    max-width: 480px;
+    margin-right: 15px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex.celebraton {
+    margin: 0 !important
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex.xiaomi {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: flex-end
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex.xiaomi .m-banner__flex--content {
+    max-width: 405px;
+    margin-top: 30px !important
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content {
+    width: 100%;
+    max-width: 390px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content p {
+    font-size: 25px;
+    margin: 0;
+    font-family: 'TelefonicaRegular'
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content p strong {
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .logo-renueva {
+    max-width: 450px;
+    margin: auto
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .mejores-ofertas {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    justify-content: center;
+    height: 45px;
+    background-color: #019df4;
+    border-radius: 15px;
+    width: 100%;
+    max-width: 345px;
+    margin: auto
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .mejores-ofertas strong {
+    color: #fff;
+    font-family: 'TelefonicaBold';
+    font-size: 32px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .xiaomi-content {
+    text-align: center
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .xiaomi-content .date {
+    border: 1px solid #019df4;
+    border-radius: 25px;
+    height: 32px;
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: max-content;
+    padding: 5px 10px;
+    margin: auto;
+    margin-bottom: 10px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .xiaomi-content .date span {
+    color: #019df4;
+    font-size: 16px;
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .xiaomi-content h2 {
+    color: #fff;
+    font-size: 24px;
+    font-family: 'TelefonicaRegular';
+    margin: 0;
+    margin-bottom: 40px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .xiaomi-content h2 strong {
+    font-size: 30px;
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .xiaomi-content .item-60 {
+    width: 100%
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .xiaomi-content .item-nuevo-equipo {
+    width: 100%;
+    max-width: 365px;
+    margin: auto;
+    margin-bottom: 10px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .xiaomi-content h3 {
+    color: #0b2739;
+    font-size: 26px;
+    font-family: 'TelefonicaBold';
+    margin: 0;
+    margin-bottom: 15px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .xiaomi-content p {
+    border: 1px solid #fff;
+    border-radius: 25px;
+    font-size: 22px;
+    font-family: 'TelefonicaBold';
+    width: 100%;
+    max-width: max-content;
+    padding: 5px 15px;
+    margin: auto
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .celebraton-content {
+    width: 100%;
+    max-width: 292px;
+    text-align: center
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .celebraton-content .celebraton-plan {
+    border: 1px solid #fff;
+    border-radius: 4px;
+    width: 100%;
+    max-width: 190px;
+    margin: 20px auto;
+    padding: 4px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .celebraton-content .celebraton-plan p {
+    font-size: 19px;
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .celebraton-content img {
+    margin: auto
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .celebraton-content h2 {
+    font-size: 20px;
+    font-family: 'TelefonicaBold';
+    margin: 0
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content h1 {
+    font-size: 25px;
+    margin: 0;
+    margin-bottom: 10px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content h1 strong {
+    font-size: 40px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content h1.top {
+    margin-top: -30px;
+    margin-bottom: 20px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content h2 {
+    margin: 0;
+    font-size: 34px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content h2 strong {
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content small {
+    font-size: 20px;
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .banner-duo p {
+    font-size: 32px;
+    margin-bottom: 15px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .banner-duo p strong {
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .banner-duo .oferta-nov {
+    margin: auto;
+    margin-bottom: 30px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--content .banner-duo .precioregular-bono {
+    margin: auto
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--form {
+    width: 100%;
+    max-width: 418px
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--form p {
+    font-size: 18px;
+    font-family: 'TelefonicaRegular'
+}
+
+.m-crea .m-container .m-crea--content.m-banner-flex .m-banner__flex--form h2.primary {
+    color: #019df4
+}
+
+.m-crea .m-container .m-crea--content.container-center {
+    max-width: 480px;
+    text-align: center;
+    margin: 0;
+    padding: 0
+}
+
+.m-crea .m-container .m-crea--content.container-center .m-form--grid {
+    justify-content: center
+}
+
+.m-crea .m-container .m-crea--content.container-celebraton {
+    max-width: 520px;
+    text-align: center
+}
+
+.m-crea .m-container .m-crea--content.container-celebraton .m-form--grid {
+    justify-content: center
+}
+
+.m-crea .m-container .m-crea--content.container-celebraton .text-validate {
+    margin-right: -20px
+}
+
+.m-crea .m-container .m-crea--content.container-celebraton h3 {
+    color: #019df4;
+    font-family: 'TelefonicaRegular';
+    font-size: 38px;
+    line-height: 40px;
+    margin: 0
+}
+
+.m-crea .m-container .m-crea--content.container-celebraton h3 strong {
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content.container-celebraton h4 {
+    font-size: 30px;
+    color: #0b2739;
+    margin: 0;
+    margin-bottom: 10px
+}
+
+.m-crea .m-container .m-crea--content.container-celebraton h4 strong {
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content.container-celebraton .m-cuota {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    margin: auto;
+    height: 30px;
+    margin-bottom: 12px
+}
+
+.m-crea .m-container .m-crea--content.container-celebraton .m-cuota span {
+    font-size: 18px;
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content.container-celebraton .logo-contado {
+    margin: auto;
+    width: 100%;
+    max-width: 408px
+}
+
+.m-crea .m-container .m-crea--content .m-crea--new p {
+    font-family: 'TelefonicaRegular';
+    font-size: 32px
+}
+
+.m-crea .m-container .m-crea--content .m-crea--new p strong {
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content .m-crea--new small {
+    font-size: 16px;
+    font-family: 'TelefonicaBold';
+    margin: 0 auto;
+    margin-bottom: 10px
+}
+
+.m-crea .m-container .m-crea--content .m-crea--new .m-flexcenter {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    justify-content: center
+}
+
+.m-crea .m-container .m-crea--content .m-crea--new .m-flexcenter span {
+    color: #fff;
+    font-size: 22px;
+    font-family: 'TelefonicaRegular'
+}
+
+.m-crea .m-container .m-crea--content .m-crea--new .m-flexcenter img {
+    margin: 0 10px
+}
+
+.m-crea .m-container .m-crea--content .m-crea--new img {
+    margin: auto;
+    margin-bottom: 10px
+}
+
+.m-crea .m-container .m-crea--content .m-crea--new img.bono {
+    margin-bottom: 12px
+}
+
+.m-crea .m-container .m-crea--content .m-hbo p {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: max-content;
+    padding: 0 16px;
+    margin: auto;
+    margin-bottom: -15px;
+    font-family: 'TelefonicaRegular';
+    border: 1px solid #fff;
+    border-radius: 25px;
+    font-size: 16px;
+    height: 30px
+}
+
+.m-crea .m-container .m-crea--content .m-hbo .logo-50percent {
+    width: 100%;
+    max-width: 375px;
+    margin: auto
+}
+
+.m-crea .m-container .m-crea--content .m-hbo .logo-hbo {
+    width: 100%;
+    max-width: 325px;
+    margin: auto
+}
+
+.m-crea .m-container .m-crea--content .m-hbo .logo-hbomax {
+    width: 100%;
+    max-width: 240px;
+    margin: auto
+}
+
+.m-crea .m-container .m-crea--content .m-hbo h2 {
+    font-size: 35px;
+    margin-top: -25px
+}
+
+.m-crea .m-container .m-crea--content .m-crea--plan h2 {
+    font-size: 48px;
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content .m-crea--plan p {
+    font-size: 35px;
+    font-family: 'TelefonicaRegular';
+    margin: 0
+}
+
+.m-crea .m-container .m-crea--content .m-crea--plan p strong {
+    font-family: 'TelefonicaBold';
+    color: #019df4
+}
+
+.m-crea .m-container .m-crea--content .m-crea--plan small {
+    display: block;
+    font-size: 20px;
+    margin: 5px 0 12px 0;
+    font-family: 'TelefonicaRegular'
+}
+
+.m-crea .m-container .m-crea--content .m-crea--plan small.bold {
+    font-family: 'TelefonicaBold';
+    display: block;
+    margin: 0;
+    margin-bottom: 20px
+}
+
+.m-crea .m-container .m-crea--content .m-crea--plan small strong {
+    color: #019df4;
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content .m-crea--plan img {
+    margin: auto
+}
+
+.m-crea .m-container .m-crea--content .m-celebraton {
+    text-align: center
+}
+
+.m-crea .m-container .m-crea--content .m-celebraton .logo-celebraton {
+    width: 100%;
+    max-width: 165px;
+    margin: auto;
+    margin-bottom: 5px
+}
+
+.m-crea .m-container .m-crea--content .m-celebraton .logo-18cuotas {
+    width: 100%;
+    max-width: 245px;
+    margin: auto
+}
+
+.m-crea .m-container .m-crea--content .m-celebraton p {
+    font-size: 23px;
+    color: #019df4;
+    margin: 0
+}
+
+.m-crea .m-container .m-crea--content .m-celebraton p strong {
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content .m-celebraton h2 {
+    font-size: 43px;
+    color: #fff;
+    font-family: 'TelefonicaBold';
+    margin: 0;
+    margin-bottom: 8px
+}
+
+.m-crea .m-container .m-crea--content .m-celebraton h2 strong {
+    color: #019df4
+}
+
+.m-crea .m-container .m-crea--content .m-celebraton small {
+    font-size: 14px;
+    display: block;
+    margin: 10px 0
+}
+
+.m-crea .m-container .m-crea--content.m-blue {
+    max-width: 500px;
+    margin-left: 50px
+}
+
+.m-crea .m-container .m-crea--content.m-blue h1 {
+    margin-top: 25px;
+    margin-bottom: 30px;
+    color: #019df4
+}
+
+.m-crea .m-container .m-crea--content.m-blue h1 strong,
+.m-crea .m-container .m-crea--content.m-blue h1 span {
+    font-size: 35px
+}
+
+.m-crea .m-container .m-crea--content.m-blue h1.slide {
+    margin: 10px 0
+}
+
+.m-crea .m-container .m-crea--content.m-blue h1.slide span {
+    line-height: 32px
+}
+
+.m-crea .m-container .m-crea--content.m-blue h1.slide strong {
+    font-size: 45px
+}
+
+.m-crea .m-container .m-crea--content.m-blue h1.white span,
+.m-crea .m-container .m-crea--content.m-blue h1.white strong {
+    color: #fff
+}
+
+.m-crea .m-container .m-crea--content.m-blue .m-label {
+    color: #0b2739
+}
+
+.m-crea .m-container .m-crea--content.m-blue .m-label a {
+    color: #0b2739
+}
+
+.m-crea .m-container .m-crea--content.m-blue .m-label.white {
+    color: #fff
+}
+
+.m-crea .m-container .m-crea--content.m-blue .m-label.white a {
+    color: #fff
+}
+
+.m-crea .m-container .m-crea--content.m-blue p {
+    color: #0b2739;
+    font-size: 20px;
+    margin-bottom: 15px
+}
+
+.m-crea .m-container .m-crea--content.m-blue p.white {
+    color: #fff
+}
+
+.m-crea .m-container .m-crea--content.m-blue p.desktop {
+    display: block !important
+}
+
+.m-crea .m-container .m-crea--content.m-blue p.regular {
+    font-family: 'TelefonicaRegular'
+}
+
+.m-crea .m-container .m-crea--content.m-blue small {
+    margin-top: 25px;
+    color: #0b2739
+}
+
+.m-crea .m-container .m-crea--content.m-blue small.white {
+    color: #fff
+}
+
+.m-crea .m-container .m-crea--content.gracias {
+    text-align: center;
+    width: 100%;
+    max-width: 520px;
+    margin: auto
+}
+
+.m-crea .m-container .m-crea--content.m-crea--margin {
+    margin-left: 0;
+    max-width: 500px
+}
+
+.m-crea .m-container .m-crea--content .m-descuento p {
+    font-size: 30px;
+    font-family: 'TelefonicaLight';
+    margin: 0;
+    line-height: 28px
+}
+
+.m-crea .m-container .m-crea--content .m-descuento p:LAST-CHILD {
+    margin-bottom: 20px
+}
+
+.m-crea .m-container .m-crea--content .m-descuento p strong {
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content .m-descuento img {
+    max-width: 265px
+}
+
+.m-crea .m-container .m-crea--content .m-center {
+    text-align: center
+}
+
+.m-crea .m-container .m-crea--content .m-center p {
+    font-size: 18px;
+    line-height: 24px;
+    font-family: 'TelefonicaRegular';
+    margin-bottom: 8px
+}
+
+.m-crea .m-container .m-crea--content .m-center h2 {
+    font-size: 20px;
+    font-family: 'TelefonicaBold';
+    margin: 0;
+    margin-bottom: 12px
+}
+
+.m-crea .m-container .m-crea--content .m-center h2 strong {
+    font-size: 25px
+}
+
+.m-crea .m-container .m-crea--content .m-center small {
+    display: block;
+    font-size: 13px;
+    margin-top: 8px;
+    max-width: 100%
+}
+
+.m-crea .m-container .m-crea--content .m-center .logo-block {
+    margin: auto
+}
+
+.m-crea .m-container .m-crea--content .m-cuota {
+    background-color: #019df4;
+    width: 100%;
+    max-width: max-content;
+    padding: 0 10px;
+    border-radius: 10px
+}
+
+.m-crea .m-container .m-crea--content .m-cuota h2 {
+    font-size: 40px;
+    font-family: 'TelefonicaBold';
+    line-height: 36px;
+    margin: 0
+}
+
+.m-crea .m-container .m-crea--content .m-cuota h2 span {
+    font-size: 20px;
+    font-family: 'TelefonicaRegular';
+    vertical-align: middle
+}
+
+.m-crea .m-container .m-crea--content .m-cuota h2 span strong {
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content .logo-cyber {
+    width: 100%;
+    max-width: 320px
+}
+
+.m-crea .m-container .m-crea--content .logo-cyber--mobile {
+    display: none
+}
+
+.m-crea .m-container .m-crea--content .logo-ahora {
+    width: 100%;
+    max-width: 370px;
+    margin-bottom: 5px
+}
+
+.m-crea .m-container .m-crea--content .logo-cuota {
+    width: 100%;
+    max-width: 280px;
+    margin-bottom: 10px
+}
+
+.m-crea .m-container .m-crea--content .m-crea__logo img {
+    width: 100%;
+    max-width: 220px
+}
+
+.m-crea .m-container .m-crea--content .logo-locura-huawei {
+    width: 100%;
+    max-width: 120px;
+    margin-bottom: 20px
+}
+
+.m-crea .m-container .m-crea--content .logo-migra {
+    width: 100%;
+    max-width: 235px;
+    margin-bottom: 15px
+}
+
+.m-crea .m-container .m-crea--content .logo-delivery {
+    width: 100%;
+    max-width: 235px;
+    margin-bottom: 10px
+}
+
+.m-crea .m-container .m-crea--content .logo-inicial {
+    display: none
+}
+
+.m-crea .m-container .m-crea--content .logo-cambiate {
+    width: 100%;
+    max-width: 320px
+}
+
+.m-crea .m-container .m-crea--content .logo-descuento {
+    width: 100%;
+    max-width: 425px;
+    margin-bottom: 10px
+}
+
+.m-crea .m-container .m-crea--content .m-crea__benefits {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 48px
+}
+
+.m-crea .m-container .m-crea--content .m-crea__benefits .m-benefit__item {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #a13ea1;
+    width: 100%;
+    max-width: 158px;
+    height: 72px;
+    border-radius: 8px
+}
+
+.m-crea .m-container .m-crea--content .m-crea__benefits .m-benefit__item p {
+    font-size: 18px;
+    font-family: 'TelefonicaRegular'
+}
+
+.m-crea .m-container .m-crea--content .m-crea__benefits .m-benefit__item.dark {
+    background-color: #642a72
+}
+
+.m-crea .m-container .m-crea--content .m-crea__benefits span {
+    font-size: 24px;
+    font-family: 'TelefonicaBold';
+    color: #fff;
+    margin: 5px
+}
+
+.m-crea .m-container .m-crea--content h1 {
+    color: #fff;
+    font-weight: 100;
+    margin-bottom: 15px
+}
+
+.m-crea .m-container .m-crea--content h1 span {
+    font-family: 'TelefonicaRegular';
+    font-size: 29px
+}
+
+.m-crea .m-container .m-crea--content h1 span.movil {
+    font-size: 30px
+}
+
+.m-crea .m-container .m-crea--content h1 span.movil strong {
+    color: #0b2739;
+    font-size: 30px
+}
+
+.m-crea .m-container .m-crea--content h1 strong {
+    font-size: 28px;
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content h1.mixed span {
+    font-size: 30px;
+    line-height: 33px;
+    display: block
+}
+
+.m-crea .m-container .m-crea--content h1.mixed strong {
+    font-size: 35px;
+    line-height: 38px
+}
+
+.m-crea .m-container .m-crea--content h1.blue {
+    color: #019df4;
+    width: 100%;
+    max-width: 320px;
+    margin-bottom: 25px;
+    font-size: 32px;
+    line-height: 40px
+}
+
+.m-crea .m-container .m-crea--content h1.blue strong {
+    font-size: 32px
+}
+
+.m-crea .m-container .m-crea--content h2 {
+    font-size: 20px;
+    color: #fff;
+    margin: 12px 0
+}
+
+.m-crea .m-container .m-crea--content h2 strong {
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content h2.blue-light {
+    color: #019df4;
+    font-size: 28px;
+    margin: 0;
+    margin-bottom: 5px
+}
+
+.m-crea .m-container .m-crea--content h3 {
+    color: #fff;
+    font-weight: 100;
+    font-family: 'TelefonicaHand';
+    font-size: 80px
+}
+
+.m-crea .m-container .m-crea--content h4 {
+    color: #fff;
+    font-weight: 100;
+    font-size: 25px;
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content h5 {
+    font-size: 70px;
+    color: #fff
+}
+
+.m-crea .m-container .m-crea--content h5 span {
+    font-size: 50px
+}
+
+.m-crea .m-container .m-crea--content p {
+    color: #fff;
+    font-size: 38px;
+    font-family: 'TelefonicaBold';
+    margin-bottom: 5px
+}
+
+.m-crea .m-container .m-crea--content p span {
+    font-size: 25px;
+    font-family: 'TelefonicaRegular'
+}
+
+.m-crea .m-container .m-crea--content p small {
+    font-size: 20px;
+    font-family: 'TelefonicaRegular';
+    margin-bottom: 15px
+}
+
+.m-crea .m-container .m-crea--content p small strong {
+    font-size: 25px;
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content p.ft-60 {
+    font-size: 60px;
+    margin-bottom: 20px
+}
+
+.m-crea .m-container .m-crea--content p.movil small {
+    margin: 0;
+    margin-bottom: 20px
+}
+
+.m-crea .m-container .m-crea--content p.dark {
+    color: #0b2739;
+    font-size: 28px;
+    font-family: 'TelefonicaRegular'
+}
+
+.m-crea .m-container .m-crea--content p.dark strong {
+    font-family: 'TelefonicaBold'
+}
+
+.m-crea .m-container .m-crea--content small {
+    display: block;
+    font-size: 12px;
+    line-height: 16px;
+    color: #fff;
+    margin-top: 20px
+}
+
+.m-crea .m-container .m-crea--content small.dark {
+    color: #0b2739
+}
+
+.m-crea .m-container .m-crea--content small.text-validate {
+    margin-top: 10px;
+    margin-right: -250px;
+    font-size: 9px;
+    line-height: 12px
+}
+
+.m-crea .m-container .m-crea--content .m-label {
+    color: #fff;
+    font-size: 14px;
+    margin: 12px 0;
+    display: block
+}
+
+.m-crea .m-container .m-crea--content .m-label input {
+    margin: 0;
+    margin-right: 5px;
+    vertical-align: middle
+}
+
+.m-crea .m-container .m-crea--content .m-label a {
+    color: #fff;
+    cursor: pointer
+}
+
+.m-crea .m-container .m-crea--content .m-label.dark {
+    color: #0b2739
+}
+
+.m-crea .m-container .m-crea--content .m-label.dark a {
+    color: #0b2739
+}
+
+.m-chatbot--slick,
+.m-container--slick {
+    margin-bottom: 20px
+}
+
+.m-card__item {
+    width: 100%;
+    max-width: 260px;
+    background-color: #fff;
+    border-radius: 15px;
+    overflow: hidden;
+    margin: 30px 15px;
+    outline: none;
+    -webkit-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    -moz-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    -ms-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    -o-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    padding: 0 4px
+}
+
+.m-card__item .m-ticket--hbo {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    justify-content: center;
+    height: 33px;
+    width: 100%;
+    max-width: 300px;
+    position: absolute;
+    top: 50px;
+    left: -60px;
+    background-color: #e63780;
+    color: #fff;
+    font-family: 'TelefonicaBold';
+    font-size: 15px;
+    -webkit-transform: rotate(-35deg);
+    -moz-transform: rotate(-35deg);
+    -ms-transform: rotate(-35deg);
+    -o-transform: rotate(-35deg);
+    transform: rotate(-35deg)
+}
+
+.m-card__item.duo-tv-fijo {
+    max-width: 675px;
+    margin: 20px auto;
+    position: relative
+}
+
+.m-card__item.duo-tv-fijo .m-card__title {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 200px
+}
+
+.m-card__item.duo-tv-fijo .m-card__title h3 {
+    margin: 10px 0
+}
+
+.m-card__item.duo-tv-fijo .m-card__title .m-button {
+    max-width: 212px
+}
+
+.m-card__item.duo-tv-fijo .m-card__body {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+    grid-gap: 10px;
+    justify-content: center;
+    height: auto;
+    padding: 25px 5px
+}
+
+.m-card__item.duo-tv-fijo .m-card__body .m-item:nth-child(5),
+.m-card__item.duo-tv-fijo .m-card__body .m-item:nth-child(6),
+.m-card__item.duo-tv-fijo .m-card__body .m-item:nth-child(7),
+.m-card__item.duo-tv-fijo .m-card__body .m-item:nth-child(8),
+.m-card__item.duo-tv-fijo .m-card__body .m-item:nth-child(9),
+.m-card__item.duo-tv-fijo .m-card__body .m-item:nth-child(10),
+.m-card__item.duo-tv-fijo .m-card__body .m-item:nth-child(11) {
+    display: block
+}
+
+.m-card__item.planes {
+    position: relative;
+    overflow: visible
+}
+
+.m-card__item.planes .m-card__repetidor {
+    position: absolute;
+    top: -20px;
+    right: -10px
+}
+
+.m-card__item.planes .m-card__title {
+    height: 240px
+}
+
+.m-card__item .m-card__title {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 225px;
+    text-align: left;
+    padding: 16px 20px;
+    border-bottom: 1px solid #d3d4d3
+}
+
+.m-card__item .m-card__title h2 {
+    color: #019df4;
+    font-size: 40px;
+    font-family: 'TelefonicaBold'
+}
+
+.m-card__item .m-card__title p {
+    font-size: 16px;
+    color: #019df4;
+    font-family: 'TelefonicaBold'
+}
+
+.m-card__item .m-card__title h3 {
+    color: #0b2739;
+    font-size: 24px;
+    line-height: 25px;
+    font-family: 'TelefonicaBold';
+    margin-bottom: 5px
+}
+
+.m-card__item .m-card__title h4 {
+    margin: 0;
+    margin-bottom: 5px;
+    color: #0b2739;
+    font-weight: 100
+}
+
+.m-card__item .m-card__title .m-card__title--oferta {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    height: 20px;
+    overflow: hidden;
+    border-radius: 4px;
+    width: 100%;
+    margin: 3px 0
+}
+
+.m-card__item .m-card__title .m-card__title--oferta span {
+    background-color: #e63780;
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    max-width: 57px;
+    color: #fff;
+    font-size: 12px
+}
+
+.m-card__item .m-card__title .m-card__title--oferta small {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    color: #e63780;
+    font-size: 12px;
+    font-family: 'TelefonicaBold';
+    border: 1px solid #e63780;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px
+}
+
+.m-card__item .m-card__title .m-button {
+    max-width: 100%;
+    height: 45px
+}
+
+.m-card__item .m-card__title.purple {
+    background-color: #a13ea1
+}
+
+.m-card__item .m-card__body {
+    padding: 16px 5px;
+    padding-bottom: 50px;
+    height: 210px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+    grid-gap: 10px;
+    position: relative
+}
+
+.m-card__item .m-card__body .m-item {
+    text-align: center
+}
+
+.m-card__item .m-card__body .m-item img {
+    width: 100%;
+    max-width: 28px;
+    margin-bottom: 5px;
+    margin: auto
+}
+
+.m-card__item .m-card__body .m-item img.apps-ilimitadas {
+    max-width: 100px;
+    margin-bottom: 8px
+}
+
+.m-card__item .m-card__body .m-item:nth-child(5),
+.m-card__item .m-card__body .m-item:nth-child(6),
+.m-card__item .m-card__body .m-item:nth-child(7),
+.m-card__item .m-card__body .m-item:nth-child(8),
+.m-card__item .m-card__body .m-item:nth-child(9),
+.m-card__item .m-card__body .m-item:nth-child(10),
+.m-card__item .m-card__body .m-item:nth-child(11) {
+    display: none
+}
+
+.m-card__item .m-card__body.m-active {
+    height: auto;
+    padding-bottom: 40px
+}
+
+.m-card__item .m-card__body.m-active .m-item:nth-child(5),
+.m-card__item .m-card__body.m-active .m-item:nth-child(6),
+.m-card__item .m-card__body.m-active .m-item:nth-child(7),
+.m-card__item .m-card__body.m-active .m-item:nth-child(8),
+.m-card__item .m-card__body.m-active .m-item:nth-child(9),
+.m-card__item .m-card__body.m-active .m-item:nth-child(10),
+.m-card__item .m-card__body.m-active .m-item:nth-child(11) {
+    display: block
+}
+
+.m-card__item .m-card__body.m-active .m-card__showmore .m-more {
+    display: none
+}
+
+.m-card__item .m-card__body.m-active .m-card__showmore .m-less {
+    display: inline-block
+}
+
+.m-card__item .m-card__body.m-active .m-card__showmore img {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg)
+}
+
+.m-card__item .m-card__body.flex-column {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 307px
+}
+
+.m-card__item .m-card__body.flex-column.duo {
+    height: 290px
+}
+
+.m-card__item .m-card__body.flex-column.internet {
+    height: 316px
+}
+
+.m-card__item .m-card__body p {
+    margin: 0;
+    font-size: 12px;
+    line-height: 15px;
+    color: #646a6c;
+    font-family: 'TelefonicaLight'
+}
+
+.m-card__item .m-card__body .m-card__showmore {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 16px;
+    left: 0;
+    right: 0;
+    color: #019df4;
+    cursor: pointer;
+    text-decoration: none;
+    outline: none
+}
+
+.m-card__item .m-card__body .m-card__showmore img {
+    margin-left: 7px;
+    width: 100%;
+    max-width: 15px
+}
+
+.m-card__item .m-card__body .m-card__showmore .m-more {
+    display: inline-block
+}
+
+.m-card__item .m-card__body .m-card__showmore .m-less {
+    display: none
+}
+
+.m-exclusive__item {
+    width: 100%;
+    max-width: 360px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: 8px 12px;
+    text-align: center;
+    outline: none;
+    background-color: #fff
+}
+
+.m-exclusive__item .m-image {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 180px;
+    margin: auto;
+    margin-bottom: 15px;
+    text-align: center;
+    height: 40px
+}
+
+.m-exclusive__item .m-image img {
+    width: 100%;
+    max-width: 45px;
+    height: 100%
+}
+
+.m-exclusive__item .m-image span {
+    color: #019df4;
+    font-size: 24px;
+    margin: 0 15px
+}
+
+.m-exclusive__item h2 {
+    color: #0b2739;
+    font-size: 16px;
+    font-family: 'TelefonicaBold';
+    font-weight: 100
+}
+
+.m-exclusive__item p {
+    color: #0b2739;
+    font-size: 16px
+}
+
+.m-exclusive__item .m-actions {
+    margin-top: 20px
+}
+
+.m-search {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    width: 100%;
+    max-width: 675px;
+    margin: auto;
+    margin-bottom: 40px;
+    border: 1px solid #b6b7b7;
+    border-radius: 30px;
+    height: 44px;
+    padding: 10px 15px
+}
+
+.m-search img {
+    max-width: 24px;
+    margin-right: 8px
+}
+
+.m-search input {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -ms-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
+    outline: none;
+    border: none;
+    width: 100%;
+    color: #b6b7b7;
+    font-size: 16px;
+    font-family: 'TelefonicaRegular'
+}
+
+.m-equipos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 250px));
+    grid-gap: 24px;
+    justify-content: center
+}
+
+.m-equipos .m-equipos__item {
+    -webkit-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    -moz-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    -ms-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    -o-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    border-radius: 15px;
+    padding: 20px 12px;
+    text-align: center
+}
+
+.m-equipos .m-equipos__item .m-equipos__container {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    justify-content: center;
+    height: 165px;
+    margin-bottom: 20px
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__image {
+    position: relative;
+    width: 100%;
+    max-width: 100px
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__image img {
+    width: 100%;
+    max-width: 100px
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__image .logo-cyberdays-equipos {
+    position: absolute;
+    left: 0;
+    top: -10px;
+    max-width: 72px
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__image .m-oferta {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: -5px;
+    bottom: 15px;
+    background-color: #e63780;
+    color: #fff;
+    border-radius: 8px
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__image .m-oferta p {
+    font-size: 10px;
+    text-align: center
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__image .m-oferta p strong {
+    font-size: 18px;
+    font-family: 'TelefonicaBold';
+    display: block
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__content {
+    padding: 0 5px;
+    text-align: left;
+    width: 100%
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__content strong {
+    display: block;
+    color: #019df4;
+    font-size: 12px;
+    font-family: 'TelefonicaBold';
+    margin-bottom: 3px
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__content .m-equipo__title {
+    color: #0b2739;
+    margin-bottom: 9px
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__content .plan {
+    font-size: 14px;
+    color: #0b2739
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__content .cuotas {
+    font-size: 14px;
+    color: #0b2739
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__content .cuotas span {
+    font-size: 28px;
+    line-height: 32px;
+    color: #019df4;
+    font-family: 'TelefonicaBold'
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__content .cuotas.pink {
+    color: #e63780;
+    font-family: 'TelefonicaBold'
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__content .cuotas.pink span {
+    color: #019df4
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__content .cuotas.blue {
+    color: #019df4;
+    font-size: 22px;
+    font-family: 'TelefonicaBold';
+    margin-bottom: 5px
+}
+
+.m-equipos .m-equipos__item .m-equipos__container .m-equipo__content .cuotas.blue small {
+    display: block;
+    font-size: 18px;
+    line-height: 18px
+}
+
+.m-equipos .m-equipos__item .m-equipos__actions .m-button {
+    height: 45px
+}
+
+.m-section--equipos {
+    display: none
+}
+
+.m-planes__equipos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+    grid-gap: 25px;
+    margin: 35px 0
+}
+
+.m-planes__equipos .m-equipos__item {
+    border: 1px solid #019df4;
+    border-radius: 8px;
+    padding: 24px
+}
+
+.m-planes__equipos .m-equipos__item .m-equipo__container {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center
+}
+
+.m-planes__equipos .m-equipos__item .m-equipo__container .m-equipo__image {
+    width: 100%;
+    max-width: 145px
+}
+
+.m-planes__equipos .m-equipos__item .m-equipo__container .m-equipo__image img {
+    width: 100%;
+    max-width: 130px
+}
+
+.m-planes__equipos .m-equipos__item .m-equipo__container .m-equipo__content {
+    width: 100%
+}
+
+.m-planes__equipos .m-equipos__item .m-equipo__container .m-equipo__content h2 {
+    font-size: 24px;
+    color: #019df4;
+    font-family: 'TelefonicaBold';
+    margin-bottom: 3px
+}
+
+.m-planes__equipos .m-equipos__item .m-equipo__container .m-equipo__content p {
+    color: #0b2739;
+    font-size: 18px;
+    margin-bottom: 5px
+}
+
+.m-planes__equipos .m-equipos__item .m-equipo__container .m-equipo__content small {
+    display: block;
+    margin-bottom: 40px;
+    color: #646a6c;
+    font-size: 18px
+}
+
+.m-planes__equipos .m-equipos__item .m-equipo__container .m-equipo__content small strong {
+    font-family: 'TelefonicaBold'
+}
+
+.m-planes__equipos .m-equipos__item .m-equipo__actions {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    margin-top: 20px
+}
+
+.m-planes__equipos .m-equipos__item .m-equipo__actions.mobile {
+    display: none
+}
+
+.m-planes__equipos .m-equipos__item .m-equipo__actions .m-button {
+    height: 40px;
+    max-width: 160px
+}
+
+.m-planes__equipos .m-equipos__item .m-equipo__actions .m-button.m-button--transparent {
+    margin-right: 15px;
+    max-width: 130px
+}
+
+.m-planes__equipos .m-equipos__item .m-equipo__features {
+    display: none
+}
+
+.m-promotion {
+    margin-bottom: 30px
+}
+
+.m-promotion.m-center {
+    width: 100%;
+    max-width: 675px;
+    margin: auto
+}
+
+.m-promotion p {
+    font-size: 18px;
+    color: #0b2739
+}
+
+.m-promotion p strong {
+    font-family: 'TelefonicaBold';
+    font-weight: 100
+}
+
+.m-instalacion {
+    width: 100%;
+    margin: 20px auto
+}
+
+.m-instalacion p {
+    padding: 24px;
+    border: 1px solid #019df4;
+    border-radius: 8px;
+    color: #019df4;
+    font-size: 18px
+}
+
+.m-accordion {
+    background-color: #f8f8f8;
+    padding: 10px 0;
+    border-bottom: 1px solid #979797
+}
+
+.m-accordion:LAST-CHILD {
+    border: none
+}
+
+.m-accordion .m-accordion__title {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    height: 40px;
+    padding: 30px 50px;
+    justify-content: space-between;
+    color: #0b2739;
+    font-size: 18px;
+    cursor: pointer;
+    font-weight: 100
+}
+
+.m-accordion .m-accordion__content {
+    -webkit-transition: max-height .2s ease;
+    -moz-transition: max-height .2s ease;
+    -ms-transition: max-height .2s ease;
+    -o-transition: max-height .2s ease;
+    transition: max-height .2s ease;
+    padding: 0 50px;
+    max-height: 0;
+    overflow: hidden
+}
+
+.m-accordion .m-accordion__content p {
+    font-size: 15px;
+    color: #646a6c;
+    margin-bottom: 20px
+}
+
+.m-accordion .m-accordion__content p a {
+    text-decoration: none;
+    color: #019df4
+}
+
+.m-accordion .m-accordion__content .m-table {
+    border-collapse: separate;
+    width: 100%;
+    margin: 20px 0;
+    max-width: max-content;
+    border-radius: 20px;
+    overflow: hidden;
+    border: 1px solid #019df4;
+    border-spacing: 0
+}
+
+.m-accordion .m-accordion__content .m-table thead tr th {
+    font-weight: 100;
+    padding: 10px 15px;
+    border-right: 1.5px solid #83b3f0;
+    text-align: center;
+    color: #fff;
+    background-color: #019df4
+}
+
+.m-accordion .m-accordion__content .m-table thead tr th strong {
+    font-family: 'TelefonicaBold';
+    display: block
+}
+
+.m-accordion .m-accordion__content .m-table thead tr th:LAST-CHILD {
+    border-right: none
+}
+
+.m-accordion .m-accordion__content .m-table tbody tr td {
+    padding: 10px 15px;
+    font-size: 14px;
+    border-top: 1.5px solid #019df4;
+    border-right: 1.5px solid #019df4;
+    text-align: left
+}
+
+.m-accordion .m-accordion__content .m-table tbody tr td strong {
+    font-family: 'TelefonicaBold';
+    display: block
+}
+
+.m-accordion .m-accordion__content .m-table tbody tr td:LAST-CHILD {
+    border-right: none
+}
+
+.arrow-acc {
+    -webkit-transform: rotate(0);
+    -moz-transform: rotate(0);
+    -ms-transform: rotate(0);
+    -o-transform: rotate(0);
+    transform: rotate(0);
+    -webkit-transition: transform;
+    -moz-transition: transform;
+    -ms-transition: transform;
+    -o-transition: transform;
+    transition: transform
+}
+
+.arrow-acc::AFTER {
+    content: url("../img/icons/arrow-down.png")
+}
+
+.slide .arrow-acc {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+    -webkit-transition: transform;
+    -moz-transition: transform;
+    -ms-transition: transform;
+    -o-transition: transform;
+    transition: transform
+}
+
+.m-modal {
+    display: none;
+    position: fixed;
+    z-index: 999;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.6)
+}
+
+.m-modal .m-modal__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%
+}
+
+.m-modal .m-modal__container .m-modal__item {
+    background-color: #fff;
+    width: 100%;
+    max-width: 450px;
+    border-radius: 14px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-feature .m-modal__title {
+    height: 70px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-feature .m-modal__body .m-modal__image {
+    width: 100%;
+    max-width: 200px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-feature .m-modal__body .m-modal__feature {
+    width: 100%
+}
+
+.m-modal .m-modal__container .m-modal__item.m-feature .m-modal__body .m-modal__feature p {
+    margin-bottom: 20px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-feature .m-modal__body .m-modal__feature .m-feature__detail {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    margin: 10px 0
+}
+
+.m-modal .m-modal__container .m-modal__item.m-feature .m-modal__body .m-modal__feature .m-feature__detail .m-icon {
+    width: 100%;
+    max-width: 40px;
+    text-align: left
+}
+
+.m-modal .m-modal__container .m-modal__item.m-feature .m-modal__body .m-modal__feature .m-feature__detail .m-content {
+    text-align: left
+}
+
+.m-modal .m-modal__container .m-modal__item.m-feature .m-modal__body .m-modal__feature .m-feature__detail .m-content span {
+    display: block;
+    font-size: 14px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-feature .m-modal__body .m-modal__feature .m-feature__detail .m-content strong {
+    font-family: 'TelefonicaBold';
+    font-size: 14px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-feature .m-modal__body .m-modal__feature .m-button {
+    margin-top: 20px;
+    height: 42px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario {
+    max-width: 480px;
+    border-radius: 8px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario.m-idversion {
+    max-width: 436px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario.m-idversion .m-modal__title {
+    background-color: #019df4
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario.m-idversion .m-modal__body {
+    padding: 20px 25px 0 25px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario.m-idversion .m-modal__body p {
+    color: #0b2739
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario.m-idversion .m-modal__body .m-form--grid input {
+    border-radius: 20px;
+    -webkit-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    -moz-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    -ms-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    -o-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    box-shadow: 0 0 12px rgba(80, 83, 90, 0.15)
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario.m-idversion .m-modal__body .m-form--grid .bootstrap-select .dropdown-toggle {
+    border-radius: 20px;
+    -webkit-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    -moz-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    -ms-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    -o-box-shadow: 0 0 12px rgba(80, 83, 90, 0.15);
+    box-shadow: 0 0 12px rgba(80, 83, 90, 0.15)
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario.m-idversion .m-modal__body .m-label {
+    font-size: 16px;
+    margin-top: 10px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario.m-idversion .m-modal__footer {
+    padding: 30px 20px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__title {
+    height: 80px;
+    background-color: #fff
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__title img {
+    max-width: 190px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__body {
+    flex-direction: column;
+    align-items: center;
+    padding: 0 20px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__body p {
+    margin: 5px 0;
+    color: #019df4;
+    font-size: 20px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__body p.black {
+    color: #0b2739;
+    text-align: center
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__body .m-form--grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-gap: 10px;
+    text-align: center;
+    width: 100%;
+    max-width: 480px;
+    padding: 0
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__body .m-form--grid input {
+    border-radius: 8px;
+    text-align: center;
+    margin: 0;
+    border: 1px solid #b5b7b9;
+    width: 100%
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__body .m-form--grid .bootstrap-select {
+    width: 100% !important;
+    margin: 0
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__body .m-form--grid .bootstrap-select .dropdown-toggle {
+    height: 40px;
+    outline: none !important;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -ms-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
+    border-radius: 8px;
+    background-color: #fff !important;
+    color: #646a6c !important;
+    border: 1px solid #b5b7b9 !important
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__body .m-form--grid .bootstrap-select .dropdown-menu {
+    border-radius: 12px;
+    padding: 0 8px;
+    margin-top: 8px;
+    border: none
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__body .m-form--grid .bootstrap-select .dropdown-menu li a {
+    border-top: 1px solid #0b2739;
+    text-align: center;
+    background-color: #fff;
+    padding: 5px;
+    outline: none !important
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__body .m-form--grid .bootstrap-select .dropdown-menu li:FIRST-CHILD a {
+    border: none
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__body .m-label {
+    font-size: 12px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__body .m-label input {
+    margin-right: 5px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__body .m-label a {
+    color: #019df4;
+    cursor: pointer
+}
+
+.m-modal .m-modal__container .m-modal__item.m-formulario .m-modal__footer {
+    padding: 15px;
+    text-align: center
+}
+
+.m-modal .m-modal__container .m-modal__item.m-legal {
+    max-width: 500px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-legal .m-modal__body {
+    display: block;
+    padding: 30px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-legal .m-modal__body .m-modal__content {
+    height: 380px;
+    overflow: hidden;
+    overflow-y: scroll
+}
+
+.m-modal .m-modal__container .m-modal__item.m-legal .m-modal__body .m-modal__content::-webkit-scrollbar {
+    width: 7px;
+    height: 5px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-legal .m-modal__body .m-modal__content::-webkit-scrollbar-track {
+    background-color: transparent;
+    border-radius: 10px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-legal .m-modal__body .m-modal__content::-webkit-scrollbar-thumb {
+    background-color: #019bf1;
+    border-radius: 10px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-legal .m-modal__body .m-modal__content h2 {
+    font-size: 15px;
+    color: #019bf1;
+    font-weight: 100;
+    font-family: 'TelefonicaBold';
+    margin-bottom: 20px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-legal .m-modal__body .m-modal__content p {
+    margin-bottom: 20px;
+    font-size: 14px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-legal .m-modal__footer {
+    text-align: center;
+    padding-bottom: 30px
+}
+
+.m-modal .m-modal__container .m-modal__item.m-legal .m-modal__footer .m-button {
+    background-color: #019bf1
+}
+
+.m-modal .m-modal__container .m-modal__item .m-modal__title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #019bf2;
+    height: 55px;
+    position: relative;
+    overflow: hidden;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px
+}
+
+.m-modal .m-modal__container .m-modal__item .m-modal__title h2 {
+    font-family: 'TelefonicaBold';
+    color: #fff;
+    font-size: 24px
+}
+
+.m-modal .m-modal__container .m-modal__item .m-modal__title .close {
+    position: absolute;
+    right: 20px;
+    top: 16px;
+    background-color: #fff;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'TelefonicaBold';
+    font-size: 28px;
+    cursor: pointer;
+    opacity: 1;
+    float: none;
+    text-shadow: none
+}
+
+.m-modal .m-modal__container .m-modal__item .m-modal__body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 40px 30px 40px
+}
+
+.m-modal .m-modal__container .m-modal__item .m-modal__body .m-modal__image {
+    width: 100%;
+    max-width: 150px
+}
+
+.m-modal .m-modal__container .m-modal__item .m-modal__body .m-modal__image img {
+    width: 100%
+}
+
+.m-modal .m-modal__container .m-modal__item .m-modal__body .m-modal__content {
+    width: 100%;
+    padding: 0 10px
+}
+
+.m-modal .m-modal__container .m-modal__item .m-modal__body .m-modal__content .m-content__details {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 15px 0
+}
+
+.m-modal .m-modal__container .m-modal__item .m-modal__body .m-modal__content .m-content__details strong,
+.m-modal .m-modal__container .m-modal__item .m-modal__body .m-modal__content .m-content__details p {
+    font-size: 14px
+}
+
+.m-modal .m-modal__container .m-modal__item .m-modal__body .m-modal__content .m-content__details .m-image {
+    width: 100%;
+    max-width: 30px;
+    margin-right: 5px
+}
+
+.m-modal .m-modal__container .m-modal__item .m-modal__body .m-modal__content p {
+    font-family: 'TelefonicaRegular';
+    margin: 0;
+    font-size: 16px
+}
+
+.m-modal .m-modal__container .m-modal__item .m-modal__body .m-modal__content strong {
+    display: block;
+    font-family: 'TelefonicaBold'
+}
+
+.m-footer {
+    width: 100%;
+    height: 100%;
+    background: #f5f5f5;
+    position: relative
+}
+
+.m-footer.id-version {
+    background-color: #283342;
+    height: 100px;
+    border: none
+}
+
+.m-footer.id-version .m-container .m-footer__logo {
+    display: none
+}
+
+.m-footer.id-version .m-container .m-footer__policies a,
+.m-footer.id-version .m-container .m-footer__phone a {
+    color: #fff
+}
+
+.m-footer .m-container {
+    display: block;
+    padding: 0
+}
+
+.m-footer .m-container .m-footer__logo {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 80px
+}
+
+.m-footer .m-container .m-footer__logo img {
+    margin: auto
+}
+
+.m-footer .m-container .m-footer__policies {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    flex-direction: column;
+    border-top: 1px solid rgba(134, 136, 140, 0.2)
+}
+
+.m-footer .m-container .m-footer__policies a {
+    height: 50px;
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center;
+    justify-content: center;
+    color: #50535a;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 0 25px;
+    width: 100%;
+    max-width: 100%;
+    border-bottom: 1px solid rgba(134, 136, 140, 0.2)
+}
+
+.m-footer .m-container .m-footer__phone {
+    text-align: center;
+    padding: 20px 0
+}
+
+.m-footer .m-container .m-footer__phone a {
+    color: #646a6c;
+    font-size: 18px
+}
+
+.m-footer .m-container .m-footer__phone a strong {
+    display: block;
+    font-family: 'TelefonicaBold';
+    font-size: 28px
+}
+
+.slick-next,
+.slick-prev {
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    -o-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: 0;
+    background: 0 0;
+    z-index: 2
+}
+
+.slick-next.slick-disabled:BEFORE,
+.slick-prev.slick-disabled:BEFORE {
+    opacity: 0
+}
+
+.slick-next {
+    right: -30px
+}
+
+.slick-next:BEFORE {
+    content: url("../img/icons/skyblue-arrow-right.png")
+}
+
+.slick-prev {
+    left: -30px
+}
+
+.slick-prev:BEFORE {
+    content: url("../img/icons/skyblue-arrow-left.png")
+}
+
+.section-crea .slick-next,
+.section-crea .slick-prev {
+    width: 60px;
+    height: 60px
+}
+
+.section-crea .slick-next:BEFORE,
+.section-crea .slick-prev:BEFORE {
+    content: '';
+    display: block;
+    width: 50px;
+    height: 50px;
+    background-size: 50px;
+    background-repeat: no-repeat
+}
+
+.section-crea .slick-next {
+    right: 20px
+}
+
+.section-crea .slick-next:BEFORE {
+    background-image: url("../img/icons/icon-arrow-right-crea.png")
+}
+
+.section-crea .slick-prev {
+    left: 20px
+}
+
+.section-crea .slick-prev:BEFORE {
+    background-image: url("../img/icons/icon-arrow-left-crea.png")
+}
+
+.m-loading {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 100%;
+    z-index: 99999;
+    background-color: rgba(255, 255, 255, 0.8);
+    display: none;
+    justify-content: center
+}
+
+.m-loading.active {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: center
+}
+
+.m-loading img {
+    max-width: 80px
+}
+
+.m-politicas__header img {
+    width: 100%;
+    max-width: 270px
+}
+
+.m-politicas__container .m-politica__title {
+    text-align: center;
+    margin-bottom: 24px
+}
+
+.m-politicas__container .m-politica__title h2 {
+    color: #019df4;
+    font-size: 40px
+}
+
+.m-politicas__container h3 {
+    color: #019df4;
+    font-size: 16px;
+    font-family: 'TelefonicaBold'
+}
+
+.m-politicas__container p {
+    font-size: 16px;
+    margin-bottom: 24px;
+    text-align: justify
+}
+
+.m-politicas__footer img {
+    width: 100%;
+    max-width: 178px
+}
+
+.m-map {
+    height: 250px;
+    width: 100%;
+    margin: 10px 0
+}
+
+.m-chatbot {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%
+}
+
+.m-chatbot .m-chatbot__movil {
+    width: 100%
+}
+
+.m-chatbot .m-chatbot__hogar {
+    width: 100%
+}
+
+@media (min-width:1200px) {
+    header.id-version {
+        display: none
+    }
+    .m-crea.id-version {
+        height: calc(100vh - 80px)
+    }
+    .m-footer {
+        height: 130px
+    }
+    .m-footer.id-version {
+        height: 80px
+    }
+    .m-footer.id-version .m-container .m-footer__logo {
+        display: flex;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        align-items: center;
+        width: 100%;
+        max-width: 158px
+    }
+    .m-footer.id-version .m-container .m-footer__logo img {
+        width: 100%
+    }
+    .m-footer .m-container {
+        display: flex;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        align-items: center;
+        justify-content: space-between;
+        align-items: center;
+        height: 100%
+    }
+    .m-footer .m-container .m-footer__policies {
+        border: none;
+        flex-direction: row
+    }
+    .m-footer .m-container .m-footer__policies a {
+        border: 0;
+        max-width: max-content
+    }
+    .m-footer .m-container .m-footer__policies a:nth-child(2) {
+        border-bottom: 0
+    }
+    .m-footer .m-container .m-footer__phone {
+        text-align: right
+    }
+}
+
+@media (max-width:768px) {
+    .header-crea {
+        background-size: cover !important;
+        background: url("../img/fondo/fondo-header-chatbot-mobile.png") no-repeat center center
+    }
+    .header-crea .m-container {
+        justify-content: center
+    }
+    .m-title p {
+        font-size: 30px
+    }
+    .m-container {
+        padding: 40px 20px
+    }
+    .m-mobile--none {
+        display: none !important
+    }
+    .m-text-desktop {
+        display: none !important
+    }
+    .m-text-mobile {
+        display: block !important
+    }
+    .m-subtitle.flex {
+        display: flex;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        align-items: center;
+        justify-content: center
+    }
+    .m-subtitle .m-subtitle__item {
+        padding: 0 5px
+    }
+    .m-subtitle .m-subtitle__item img {
+        height: 30px
+    }
+    .m-subtitle .m-subtitle__item p {
+        font-size: 15px
+    }
+    .m-subtitle .m-subtitle__item span {
+        font-size: 28px
+    }
+    .m-form--grid {
+        width: 100%;
+        max-width: 300px;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(160px, 200px));
+        grid-gap: 8px
+    }
+    .m-form--grid.m-row {
+        margin: 10px auto;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(125px, 1fr));
+        grid-gap: 8px
+    }
+    .m-section__fibra {
+        height: 460px;
+        background-size: cover !important;
+        background: url("../img/fondo/crea-fibra-mobile.jpg") no-repeat center center
+    }
+    .m-section__fibra .m-container {
+        height: 460px;
+        justify-content: flex-start
+    }
+    .m-section__fibra .m-container .m-fibra__title h2 {
+        font-size: 22px
+    }
+    .m-section__fibra .m-container .m-fibra__title p {
+        font-size: 15px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa {
+        width: 100%;
+        max-width: 261px;
+        height: 191px;
+        position: relative;
+        right: -20px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.ate .m-item .m-item__text {
+        top: -21px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.molina {
+        right: 75px;
+        top: 52px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.molina .m-item .m-item__text {
+        right: -48px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.azul1 {
+        right: 122px;
+        top: 27px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.azul2 {
+        right: 135px;
+        top: 24px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.azul3 {
+        right: 160px;
+        top: 55px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.surco {
+        right: 128px;
+        top: 68px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.surco .m-item .m-item__text {
+        top: 30px;
+        right: -70px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.chorrillos {
+        right: 146px;
+        top: inherit;
+        bottom: 0
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.chorrillos .m-item .m-item__text {
+        top: 15px;
+        right: 30px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.barranco {
+        right: 180px;
+        top: 111px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.barranco .m-item .m-item__text {
+        top: -2px;
+        right: 3px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.sanborja {
+        right: 152px;
+        top: 70px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.sanborja .m-item .m-item__text {
+        top: -74px;
+        right: -2px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.surquillo {
+        right: 167px;
+        top: 87px;
+        z-index: 2
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.surquillo .m-item .m-item__text {
+        top: -9px;
+        right: 13px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.miraflores {
+        right: 173px;
+        top: 90px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.miraflores .m-item .m-item__text {
+        top: -14px;
+        right: 18px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.sanisidro {
+        right: 177px;
+        top: 78px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.sanisidro .m-item .m-item__text {
+        top: -12px;
+        right: 20px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.blanco1 {
+        right: 169px;
+        top: 48px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.lince {
+        right: 189px;
+        top: 68px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.lince .m-item .m-item__text {
+        top: -58px;
+        right: 0
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.blanco2 {
+        right: 175px;
+        top: 30px;
+        z-index: 0
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.blanco3 {
+        right: 203px;
+        top: 42px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.sanmiguel {
+        left: 0;
+        top: 51px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.sanmiguel .m-item .m-item__text {
+        top: -4px;
+        right: 7px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.pueblolibre {
+        right: 212px;
+        top: 56px;
+        z-index: 2
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.pueblolibre .m-item .m-item__text {
+        top: -18px;
+        right: 8px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.jesusmaria {
+        right: 199px;
+        top: 57px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.jesusmaria .m-item .m-item__text {
+        top: -36px;
+        right: 3px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.magdalena {
+        right: 216px;
+        top: 72px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item.magdalena .m-item .m-item__text {
+        top: -12px;
+        right: 4px
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item .m-item__image {
+        cursor: pointer
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item .m-item__image img {
+        display: none
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item .m-item__image img.mobile {
+        display: block
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item .m-item__text {
+        position: absolute;
+        pointer-events: none
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item .m-item__text img {
+        display: none
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item .m-item__text img.mobile {
+        display: block
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item.hover:hover .m-item__image img,
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item.hover:active .m-item__image img {
+        display: none
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item.hover:hover .m-item__image img.active,
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item.hover:active .m-item__image img.active {
+        display: none
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item.hover:hover .m-item__image img.mobile-active,
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item.hover:active .m-item__image img.mobile-active {
+        display: block
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item.hover:hover .m-item__text img,
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item.hover:active .m-item__text img {
+        display: none
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item.hover:hover .m-item__text img.active,
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item.hover:active .m-item__text img.active {
+        display: none
+    }
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item.hover:hover .m-item__text img.mobile-active,
+    .m-section__fibra .m-container .m-fibra__mapa .m-mapa__item .m-item.hover:active .m-item__text img.mobile-active {
+        display: block
+    }
+    .m-crea.m-flexstart .m-container {
+        padding: 20px
+    }
+    .m-crea.m-crea-trio {
+        background: url("../img/fondo/crea-trio-mobile.jpg") no-repeat center center
+    }
+    .m-crea.m-crea-trio.slide {
+        background: url("../img/fondo/crea-trio-mobile-slide.jpg") no-repeat center center
+    }
+    .m-crea.m-crea-duo-internet-tv {
+        display: flex;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        align-items: flex-start;
+        background: url("../img/fondo/crea-duo-internet-tv-mobile.jpg") no-repeat center center
+    }
+    .m-crea.m-crea-duo-internet-tv.slide2 {
+        background: url("../img/fondo/crea-duo-internet-tv-mobile-slide2.jpg") no-repeat center center
+    }
+    .m-crea.m-crea-duo-internet-tv .m-container {
+        padding: 20px
+    }
+    .m-crea.m-crea-duo-internet-fijo {
+        background: url("../img/fondo/crea-duo-internet-fijo-mobile.jpg") no-repeat center center
+    }
+    .m-crea.m-crea-duo-tv-fijo {
+        background: url("../img/fondo/crea-duo-tv-fijo-mobile.jpg") no-repeat center center
+    }
+    .m-crea.m-crea-solo-internet {
+        background: url("../img/fondo/crea-solo-internet-mobile.jpg") no-repeat center center
+    }
+    .m-crea.m-crea-solo-internet.slide2 {
+        background: url("../img/fondo/crea-solo-internet-mobile-slide2.jpg") no-repeat center center
+    }
+    .m-crea.m-crea-fibra-optica {
+        background: url("../img/fondo/crea-fibra-optica-mobile.jpg") no-repeat center center
+    }
+    .m-crea.m-crea-fibra-optica.slide {
+        background: url("../img/fondo/crea-fibra-optica-mobile-slide.jpg") no-repeat center center
+    }
+    .m-crea.m-crea-movistar-total {
+        background: url("../img/fondo/crea-movistar-total-mobile.jpg") no-repeat center center;
+        display: flex;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        align-items: flex-start
+    }
+    .m-crea.m-crea-movistar-total .m-container {
+        margin: 0;
+        padding: 20px;
+        text-align: center;
+        margin-top: 100px
+    }
+    .m-crea.m-crea-movistar-total .m-container .m-form--grid {
+        justify-content: center
+    }
+    .m-crea.m-crea-equipos {
+        background: url("../img/fondo/crea-equipos-mobile.jpg") no-repeat center center;
+        display: flex;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        align-items: flex-start
+    }
+    .m-crea.m-crea-equipos .m-container {
+        margin: 0;
+        padding: 10px
+    }
+    .m-crea.m-crea-equipos.slide {
+        background: url("../img/fondo/crea-equipos-slide-mobile.jpg") no-repeat center center
+    }
+    .m-crea.m-crea-equipos.slide .m-container .m-crea--content .logo-50 {
+        max-width: 250px;
+        margin: auto;
+        margin-bottom: 10px
+    }
+    .m-crea.m-crea-equipos.slide .m-container .m-crea--content .logo-delivery-online {
+        margin: auto;
+        width: 100%;
+        max-width: 220px
+    }
