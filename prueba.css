@@ -2006,10 +2006,6 @@
     transition: transform
 }
 
-.arrow-acc::AFTER {
-    content: url("../img/icons/arrow-down.png")
-}
-
 .slide .arrow-acc {
     -webkit-transform: rotate(180deg);
     -moz-transform: rotate(180deg);
